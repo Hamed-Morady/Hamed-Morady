@@ -1,5 +1,5 @@
 
- #👋 Hi, I'm Hamed Morady 
+ # 👋 Hi, I'm Hamed Morady 
  
 ---
 ## a passionate full-stack developer on a mission to build real-world applications and grow through hands-on experience. I enjoy coding, designing user interfaces, and exploring the world of software development.
